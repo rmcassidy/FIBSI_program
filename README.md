@@ -5,7 +5,7 @@ Version: FIBSI 1.0.1
 FIBSI
 Version 1.0.1
 
-By Ryan Michael Cassidy (rmcassidy@pm.me) and Max Odem (Max.Odem@uth.tmc.edu)
+By Ryan Michael Cassidy (rmcassidy@pm.me) and Max Odem (Max.Odem@uth.tmc.edu; max.neuro.odem@gmail.com)
 
 This is the program described in the publication:
 
