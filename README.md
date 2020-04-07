@@ -14,17 +14,17 @@ This is the program described in the publication:
 -----
 # Table of Contents
 
-[I. Version changes](##i.-version-changes)
+[I. Version changes](#i-version-changes)
 
-[II.  Usage](##ii.-usage)
+[II.  Usage](#ii-usage)
 
 >[FLAGS](##flags)
 
 >[FURTHER EXPLANATION](##further-flag-explanation-and-examples)
 
-[III. Program background and conceptual design](##iii.-program-background-and-conceptual-design)
+[III. Program background and conceptual design](##iii-program-background-and-conceptual-design)
 
-[IV.  Prerequisites and installation](##iv.-prerequisites-and-installation)
+[IV.  Prerequisites and installation](##iv-prerequisites-and-installation)
 
 ------
 ## I. Version changes
