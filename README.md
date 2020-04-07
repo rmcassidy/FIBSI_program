@@ -1,4 +1,4 @@
-Version: FIBSI 1.0.0
+Version: FIBSI 1.0.1
 
 # Frequency Independent Biological Signal Identification
 -----
