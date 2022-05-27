@@ -1,8 +1,13 @@
-Examples Movies:
-Playback set to 30 frames/sec.
+Please refer to the Excel file "Larvae Used in Study_Revisions" to match items in the sections below to their corresponding larvae and usages.
 
-FIBSI inputs and outputs: 
-Cloaca [sic] refers to the anus and anal oscillations as described in the manuscript and figures.
+Examples Movies:
+Playback set to 30 frames/sec. Imaging periods were 3, 6, or 20 min in length.
+
+FIBSI inputs: 
+Fluorescence time series and FIBSI program command lines/settings used.
+
+R Script:
+Script used to analyze the power spectra and coherence of fluroescence time series corresponding to anal contractions.
 
 Spatiotemporal Maps:
-Default orientation - Anterior to posterior along the x-axis, time on the y-axis.
+Maps are uploaded in the default orientation with the anterior-to-posterior position along the gut represented by the x-axis and time by the y-axis.
